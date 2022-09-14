@@ -42,7 +42,7 @@ Mona   https://mmona0.github.io/gamedev22-mona/public/
 
 Max
 
-Marley   https://goldfishmoment.github.io/gamedev2022marley/
+Marley   https://goldfishmoment.github.io/gamedev2022marley/public/
 
 Emma  https://emmapreddy.github.io/gamedev2022emma/public/index.html
 
