@@ -28,9 +28,9 @@ Aron
 
 Milo   https://milomoore.github.io/gamedev2022-23Milo/public/
 
-Caleb
+Caleb   https://calebmemememe.github.io/GameDev2022-23/public/index.html
 
-Landon
+Landon    https://github.com/Landonjf4/GameDev2022LanJF
 
 Jonathan
 
@@ -40,15 +40,15 @@ Malaena
 
 Mona   https://mmona0.github.io/gamedev22-mona/public/
 
-Maxi
+Max
 
 Marley   https://goldfishmoment.github.io/gamedev2022marley/
 
-Emma
+Emma  https://emmapreddy.github.io/gamedev2022emma/public/index.html
 
 Antonio
 
-Joseph
+Joseph    https://limestone192.github.io/gamedev-joseph2022/public/
 
 Patrick
 
