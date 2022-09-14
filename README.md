@@ -38,9 +38,9 @@ Landon   https://landonjf4.github.io/GameDev2022LanJF/
 
 Malaena
 
-Mona
+Mona   https://mmona0.github.io/gamedev22-mona/public/
 
-Maximilian
+Maxi
 
 Marley   https://goldfishmoment.github.io/gamedev2022marley/
 
@@ -56,9 +56,9 @@ Nathen
 
 Judy
 
-Joshua
+Joshua   https://github.com/limestone192/GAME_DEV2022.git
 
-Milan
+Milan  https://mwanderr.github.io/GameDev2022-Milan/
 
 
 
