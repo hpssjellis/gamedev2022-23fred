@@ -30,7 +30,7 @@ Milo   https://milomoore.github.io/gamedev2022-23Milo/public/
 
 Caleb   https://calebmemememe.github.io/GameDev2022-23/public/index.html
 
-Landon    https://github.com/Landonjf4/GameDev2022LanJF
+Landon    https://landonjf4.github.io/GameDev2022LanJF/public/
 
 Jonathan
 
