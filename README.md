@@ -10,7 +10,7 @@ Daniel   https://therealzenald.github.io/gamedev2022daniel/public/
 
 Luca  https://luca555555.github.io/game-dev-luca-2022/index
 
-Trey
+Trey    https://bkfitx.github.io/gamedev11trey/public/
 
 Adrien   https://j-0-e.github.io/gamedev2022joe/public/
 
@@ -20,7 +20,7 @@ Michael  https://michaelcedrone.github.io/gamedevmike/public
 
 Gabby   https://quivebeat.github.io/gamedev22-gabby/public/
 
-Giorgio
+Giorgio    http://haunting2304.github.io/gamedev2022/public
 
 Prince   https://princegrewal.github.io/Game-dev-Prince-2022/public/
 
@@ -36,17 +36,17 @@ Jonathan
 
 Landon M  https://landonchild.github.io/gamedev22-23/public/
 
-Malaena
+Malaena   https://milomoore.github.io/gamedev2022-23Milo/public/
 
 Mona   https://mmona0.github.io/gamedev22-mona/public/
 
-Max
+Max  https://git-m-n.github.io/GameDev2022MN/public/
 
 Marley   https://goldfishmoment.github.io/gamedev2022marley/public/
 
 Emma  https://emmapreddy.github.io/gamedev2022emma/public/index.html
 
-Antonio
+Antonio   https://funwithtony.github.io/GameDev22-Antonio/public/
 
 Joseph    https://limestone192.github.io/gamedev-joseph2022/public/
 
