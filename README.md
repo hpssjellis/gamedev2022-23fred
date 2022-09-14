@@ -30,11 +30,11 @@ Milo   https://milomoore.github.io/gamedev2022-23Milo/public/
 
 Caleb   https://calebmemememe.github.io/GameDev2022-23/public/index.html
 
-Landon    https://landonjf4.github.io/GameDev2022LanJF/public/
+Landon J   https://landonjf4.github.io/GameDev2022LanJF/public/
 
 Jonathan
 
-Landon   https://landonjf4.github.io/GameDev2022LanJF/
+Landon M  https://landonchild.github.io/gamedev22-23/public/
 
 Malaena
 
@@ -50,11 +50,11 @@ Antonio
 
 Joseph    https://limestone192.github.io/gamedev-joseph2022/public/
 
-Patrick
+Patrick   https://romanian-man.github.io/gamedev2022patrick/public/
 
-Nathen
+Nathen    https://nathengd22.github.io/GameDev12-22-23/public/index.html
 
-Judy
+Judy    https://jt045.github.io/gamedev11judy/public/
 
 Joshua   https://github.com/limestone192/GAME_DEV2022.git
 
