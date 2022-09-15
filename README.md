@@ -6,7 +6,7 @@ my Website   https://hpssjellis.github.io/gamedev2022-23fred/public/
 
 Ambrose   https://vladtheimpaler32.github.io/gamedev2022/public/index.html
 
-Daniel   https://therealzenald.github.io/gamedev2022daniel/public/
+Daniel   https://therealzenald.github.io/gamedev2022daniel/public/index.html
 
 Luca  https://luca555555.github.io/game-dev-luca-2022/index
 
@@ -32,7 +32,7 @@ Caleb   https://calebmemememe.github.io/GameDev2022-23/public/index.html
 
 Landon J   https://landonjf4.github.io/GameDev2022LanJF/public/
 
-Jonathan
+Jonathan  https://theactualzenald.github.io/gamedev/public/
 
 Landon M  https://landonchild.github.io/gamedev22-23/public/
 
