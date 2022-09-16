@@ -24,7 +24,7 @@ Giorgio    http://haunting2304.github.io/gamedev2022/public
 
 Prince   https://princegrewal.github.io/Game-dev-Prince-2022/public/
 
-Aron
+Aron    https://aronhernandez14.github.io/gameDev22-Aron/public/
 
 Milo   https://milomoore.github.io/gamedev2022-23Milo/public/
 
