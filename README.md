@@ -28,7 +28,7 @@ Aron    https://aronhernandez14.github.io/gameDev22-Aron/public/
 
 Milena   https://fluffy1875.github.io/gamedev2022Milena/public/
 
-Brendan
+Brendan  https://brendenhooper.github.io/brenden/public/index.html
 
 Caleb   https://calebmemememe.github.io/GameDev2022-23/public/index.html
 
