@@ -54,9 +54,6 @@ Joseph    https://limestone192.github.io/gamedev-joseph2022/public/
 
 Patrick   https://romanian-man.github.io/gamedev2022patrick/public/
 
-Nathen    https://nathengd22.github.io/GameDev12-22-23/public/index.html
-
-Judy    https://jt045.github.io/gamedev11judy/public/
 
 Joshua   https://github.com/limestone192/GAME_DEV2022.git
 
