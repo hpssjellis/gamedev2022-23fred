@@ -55,7 +55,7 @@ Joseph    https://limestone192.github.io/gamedev-joseph2022/public/
 Patrick   https://romanian-man.github.io/gamedev2022patrick/public/
 
 
-Joshua   https://github.com/limestone192/GAME_DEV2022.git
+Joshua   https://fossa88.github.io/gamedev2022/public/index.html
 
 Milan  https://mwanderr.github.io/GameDev2022-Milan/
 
