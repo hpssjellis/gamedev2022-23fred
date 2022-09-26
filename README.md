@@ -36,7 +36,6 @@ Landon J   https://landonjf4.github.io/GameDev2022LanJF/public/
 
 Jonathan  https://theactualzenald.github.io/gamedev/public/
 
-Landon M  https://landonchild.github.io/gamedev22-23/public/
 
 Milo   https://milomoore.github.io/gamedev2022-23Milo/public/
 
@@ -57,9 +56,6 @@ Patrick   https://romanian-man.github.io/gamedev2022patrick/public/
 
 Joshua   https://fossa88.github.io/gamedev2022/public/index.html
 
-Milan  https://mwanderr.github.io/GameDev2022-Milan/
-
-
 
 David   https://firery-feign.github.io/game-dev-2022/public/
 
@@ -76,8 +72,9 @@ Anmol
 
 
 
+Landon M  https://landonchild.github.io/gamedev22-23/public/
 
-
+Milan  https://mwanderr.github.io/GameDev2022-Milan/
 
 
 
