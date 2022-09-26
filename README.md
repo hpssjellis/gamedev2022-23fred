@@ -38,7 +38,7 @@ Jonathan  https://theactualzenald.github.io/gamedev/public/
 
 Landon M  https://landonchild.github.io/gamedev22-23/public/
 
-Malaena   https://milomoore.github.io/gamedev2022-23Milo/public/
+Milo   https://milomoore.github.io/gamedev2022-23Milo/public/
 
 Mona   https://mmona0.github.io/gamedev22-mona/public/
 
