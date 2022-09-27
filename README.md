@@ -85,7 +85,7 @@ Milan  https://mwanderr.github.io/GameDev2022-Milan/
 
 
 
-![image](https://user-images.githubusercontent.com/5605614/192579954-3e70e7ec-fe09-4d5b-938e-72702a8201a4.png)
+
 
 
 
