@@ -88,7 +88,7 @@ Milan  https://mwanderr.github.io/GameDev2022-Milan/
 
 
 
-<a href="browser/index.html">browser/index.html</a>
+[test edgeimpulse](https://hpssjellis.github.io/gamedev2022-23fred/public/browser/)
 
 
 
