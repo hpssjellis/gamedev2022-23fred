@@ -37,8 +37,7 @@ Caleb   https://calebmemememe.github.io/GameDev2022-23/public/index.html
 
 Landon J   https://landonjf4.github.io/GameDev2022LanJF/public/
 
-Jonathan  https://theactualzenald.github.io/gamedev/public/
-
+Jonathan  https://theactualzenaldv2.github.io/gamedev/public2/
 
 Milo   https://milomoore.github.io/gamedev2022-23Milo/public/
 
