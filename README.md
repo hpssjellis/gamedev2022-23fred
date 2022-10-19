@@ -62,19 +62,13 @@ Joshua   https://fossa88.github.io/gamedev2022/public/index.html
 
 
 
-Nathen ?
-
-Zion ??
-
-
-Anmol
 
 
 
 
 
 
-Landon M  https://landonchild.github.io/gamedev22-23/public/
+
 
 Milan  https://mwanderr.github.io/GameDev2022-Milan/
 
