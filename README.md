@@ -49,6 +49,8 @@ Marley   https://marley111.github.io/gamedev2022marley/public/
 
 Emma  https://emmapreddy.github.io/gamedev2022emma/public/index.html
 
+Ethan   https://ethybryan.github.io/game-dev-2022/public/index.html
+
 Antonio   https://funwithtony.github.io/GameDev22-Antonio/public/
 
 Joseph    https://limestone192.github.io/gamedev-joseph2022/public/
