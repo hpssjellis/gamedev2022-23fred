@@ -28,7 +28,7 @@ Aron    https://aronhernandez14.github.io/gameDev22-Aron/public/
 
 Milena   https://fluffy1875.github.io/gamedev2022Milena/public/
 
-Brendan  https://brendenhooper.github.io/brenden/public/index.html
+Brenden  https://brendenhooper.github.io/brenden/public/index.html
 
 
 David   https://firery-feign.github.io/game-dev-2022/public/
