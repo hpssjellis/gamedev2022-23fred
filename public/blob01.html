@@ -1,4 +1,5 @@
 <input type=button value=now onclick="{
+
   let ab = new ArrayBuffer(2); //2 bytes / 1 byte = 8 bits 0 - 255
   let dataview = new DataView(ab);
   dataview.setInt8(0, 104);
@@ -11,15 +12,18 @@
   let myFile = new File([ab], 'myinfo.txt', { type: 'text/plain' });
   console.log('myFile');  
   console.log(myFile);
+  console.log('URL'); 
+ console.log(URL);
 
-  let  url = URL.createObjectURL(myFile);
+  //let  myUrl = URL.createObjectURL(myFile);  
+  let  myUrl = webkitURL.createObjectURL(myFile);
 
   let a = document.createElement('a');
-  a.href = url;
-  a.download = f.name;
-  a.textContent = `Download ${f.name}`;
+  a.href = myUrl;
+  a.download = myFile.name;
+  a.textContent = `Download ${myFile.name}`;
   document.getElementById('myDiv01').append(a); 
- // document.getElementById('myDiv01').innerHTML = 'wow'
+
 
 }">
 
